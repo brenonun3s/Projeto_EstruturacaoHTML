@@ -1,0 +1,86 @@
+<html>
+    <head>
+        
+        <H1>CardioVida - Clínica Especializada em Saúde Cardíaca</H1>
+        <img src="https://difusora95.com.br/wp-content/uploads/2022/07/horario-de-atendimento.jpg" width="200" align="center">
+        <div class="sidebar">
+            <h1>Menu</h1>
+            <ul>
+                <li><a href="pagina_principal.html"title="pagina_principal" target="_self">Página Principal</a></li>
+                <li><a href="sobreaclinica.html"title="sobre" target="_self">Sobre a Clínica</a></li>
+                <li><a href="horario.html"title="horario" target="_self">Horário de Funcionamento</a></li>
+                <li><a href="contato.html"title="contato" target="_self">Contato</a></li>
+                <li><a href="pagina_principal.html"title="voltar" target="_self">Voltar</a></li>
+               </ul>
+            </div>
+            <body>
+            <h1>Serviços da Clínica CardioVida</h1>
+            <p>Na Clínica CardioVida, oferecemos serviços especializados para garantir a saúde do seu coração. Nossos profissionais altamente qualificados estão prontos para fornecer atendimento personalizado e utilizar a tecnologia mais avançada para o diagnóstico e tratamento das doenças cardiovasculares. Abaixo, apresentamos nossos principais serviços e uma tabela de preços para sua referência.</p>
+            <br>
+            <h1>Serviços Oferecidos</h1>
+            <ul>
+                <li><b>Consultas Cardiológicas:</b>Avaliação completa por cardiologistas experientes, incluindo exames clínicos e revisão do histórico médico para um diagnóstico preciso.</li>
+                <li><b>Eletrocardiograma (ECG):</b>Teste não invasivo para monitorar a atividade elétrica do coração.</li>
+                <li><b>Ecocardiograma:</b>Ultrassom do coração para avaliar sua estrutura e função.</li>
+                <li><b>MAPA (Monitoramento Ambulatorial da Pressão Arterial):</b>Monitoramento da pressão arterial ao longo de 24 horas.</li>
+                <br>
+                <br>
+                <br>
+                
+                <div class="table-container">
+                    <h1>Tabela de Preços - Clínica CardioVida</h1>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Serviço</th>
+                                <th>Segunda a Sexta (R$)</th>
+                                <th>Sábado (R$)</th>
+                                <th>Feriados (R$)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Consulta Cardiológica</td>
+                                <td>300,00</td>
+                                <td>350,00</td>
+                                <td>400,00</td>
+                            </tr>
+                            <tr>
+                                <td>Eletrocardiograma (ECG)</td>
+                                <td>100,00</td>
+                                <td>120,00</td>
+                                <td>150,00</td>
+                            </tr>
+                            <tr>
+                                <td>Ecocardiograma</td>
+                                <td>350,00</td>
+                                <td>400,00</td>
+                                <td>450,00</td>
+                            </tr>
+                            <tr>
+                                <td>Teste Ergométrico</td>
+                                <td>200,00</td>
+                                <td>250,00</td>
+                                <td>300,00</td>
+                            </tr>
+                            <tr>
+                                <td>MAPA (Monitoramento da Pressão)</td>
+                                <td>250,00</td>
+                                <td>300,00</td>
+                                <td>350,00</td>
+                            </tr>
+                    
+                            </tbody>
+
+                        </table>
+            </ul>
+        </body>
+    </head>
+    <tfoot>
+        <H1>Contato:</H1>
+        <h2>Localização: Rua da Saúde - Nº123 - Centro - São Paulo<br>
+            Telefone: (11) 1234-5678<br>
+            E-mail: atendimento@cardiovida.com.br</h2><br>
+    </tfoot>
+
+</html>
