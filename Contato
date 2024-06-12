@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <H1>CardioVida - Clínica Especializada em Saúde Cardíaca</H1>
+        <img src="https://files.cercomp.ufg.br/weby/up/65/o/Fale-01.png?1550153901" width="250" align="center">
+        <div class="sidebar">
+            <h1>Menu</h1>
+            <ul>
+                <li><a href="pagina_principal.html"title="pagina_principal" target="_self">Página Principal</a></li>
+                <li><a href="sobreaclinica.html"title="sobre" target="_self">Sobre a Clínica</a></li>
+                <li><a href="horario.html"title="horario" target="_self">Horário de Funcionamento</a></li>
+                <li><a href="contato.html"title="contato" target="_self">Contato</a></li>
+                <li><a href="pagina_principal.html"title="voltar" target="_self">Voltar</a></li>
+               </ul>
+        </div>
+        <body>
+            <H1>Localização</H1>
+            <p>
+                <h3>Localização: Rua da Saúde - Nº123 - Centro - São Paulo<br>
+                    Telefone: (11) 1234-5678 - WhatsApp (11) 1234-5678<br>
+                    E-mail: atendimento@cardiovida.com.br</h3>
+            </p>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14965.22164218539!2d-40.29511664965418!3d-20.32899802314471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb8163fe383874d%3A0xf076df057b1ebcca!2sPraia%20da%20Costa%2C%20Vila%20Velha%20-%20ES!5e0!3m2!1spt-BR!2sbr!4v1718118984074!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+           
+        <h1>Entre em contato conosco:</h1>   
+
+           <form action="envia_formulario"
+                <div class="Contato">
+                    <label for="name">Nome</label>
+                    <input type="text" id="name">
+                </div>
+                
+                <div class="Contato">
+                    <label for="email">E-mail</label>
+                    <input type="email" id="email">
+                </div>
+                <div class="Contato">
+                    <label for="subject">Assunto</label>
+                    <input type="text" id="subject">
+                </div>
+                <div class="Contato">
+                    <label for="Message">Mensagem</label>
+                    <textarea id="Message"></textarea>
+                </div>
+                <br>
+                <br>
+                <button type="submit">Enviar</button>
+                <br>
+                <br>
+                <button type="reset">Limpar Formuário</button>
+            
+        
+        </body>
+      
+    </head>
+    <tfoot>
+        
+        <h2>Rua da Saúde - Nº123 - Centro - São Paulo<br>
+            Telefone: (11) 1234-5678<br>
+            E-mail: atendimento@cardiovida.com.br</h2><br>
+    </tfoot>
+</html>
+
+
