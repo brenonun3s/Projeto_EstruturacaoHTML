@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <H1>CardioVida - Clínica Especializada em Saúde Cardíaca</H1>
+        <h1><u>Quem Somos?</u></h1>
+        <img src="https://lh3.googleusercontent.com/proxy/SGMpko0r3HpGZzz2fJmK36AuOLhrnlS7m-wiV5eFlKOb651O3JVH3DMFS2bPFVfmFlOVFYbkyPbqlKhtop63sNXVmHUCyF53XcNQeRYfrjDT4Gg5XaSZU_NLO27N" width="300" align="center">
+        <div class="sidebar">
+            <h1>Menu</h1>
+            <ul>
+                <li><a href="pagina_principal.html"title="pagina_principal" target="_self">Página Principal</a></li>
+                <li><a href="sobreaclinica.html"title="sobre" target="_self">Sobre a Clínica</a></li>
+                <li><a href="horario.html"title="horario" target="_self">Horário de Funcionamento</a></li>
+                <li><a href="contato.html"title="contato" target="_self">Contato</a></li>
+                <li><a href="pagina_principal.html"title="voltar" target="_self">Voltar</a></li>
+            </ul>
+            <body>
+            <P>
+                <H1>Sobre a Clínica CardioVida</H1>
+                A Clínica CardioVida é uma instituição dedicada à excelência no cuidado da saúde cardiovascular. Nossa missão é proporcionar aos nossos pacientes atendimento médico de alta qualidade, utilizando tecnologia de ponta e abordagens inovadoras no diagnóstico, tratamento e prevenção de doenças cardíacas.
+            </P>
+            <BR>
+            <BR>
+                <H1>Nossos Serviços</H1>
+                <p>Na Clínica CardioVida, oferecemos uma ampla gama de serviços especializados, incluindo:</p>
+                
+                    <ul>
+                        <li><b>Consultas Cardiológicas:</b> Avaliação completa por cardiologistas experientes para diagnóstico e tratamento personalizado.</li>
+                        <li><b>Exames Diagnósticos:</b>Eletrocardiograma (ECG), ecocardiograma, teste ergométrico, Holter e monitoramento ambulatorial da pressão arterial (MAPA).</li>
+                        <li><b>Tratamento de Doenças Cardíacas:</b>Tratamento de hipertensão, insuficiência cardíaca, arritmias, doenças coronarianas e outras condições cardíacas.</li>
+                        <li><b>Prevenção e Reabilitação:</b>Programas de prevenção de doenças cardíacas e reabilitação cardiovascular para pacientes que passaram por procedimentos como angioplastia ou cirurgia cardíaca.</li>
+                        <li><b>Acompanhamento de Pacientes Crônicos:</b>Gestão e acompanhamento contínuo de pacientes com condições cardíacas crônicas.</li>
+                    </ul>
+                    <br>
+                
+                    <H1>Nossa Equipe</H1>
+            <p>
+                Nossa equipe é composta por cardiologistas altamente qualificados e profissionais de saúde dedicados, todos comprometidos em oferecer um atendimento humano e acolhedor. Acreditamos na importância de uma abordagem integrada, trabalhando em conjunto para proporcionar a melhor qualidade de vida aos nossos pacientes.
+            </p>
+                <h1>Estrutura e Tecnologia</h1>
+                
+                <p>A Clínica CardioVida conta com uma infraestrutura moderna e equipada com os mais avançados equipamentos para diagnósticos e tratamentos cardiológicos. Nosso ambiente foi projetado para oferecer conforto e segurança, garantindo que nossos pacientes recebam o melhor cuidado em cada visita.
+                </p>
+                <br>
+            <H1>Compromisso com a Qualidade</H1>
+            <P>Estamos comprometidos com a atualização contínua e a implementação das melhores práticas médicas. Nossos profissionais participam regularmente de treinamentos e congressos para se manterem atualizados com os avanços na cardiologia.</P>
+                
+        </body>
+           </head>
+    <tfoot>
+        <H1>Contato:</H1>
+        <h2>Localização: Rua da Saúde - Nº123 - Centro - São Paulo<br>
+            Telefone: (11) 1234-5678<br>
+            E-mail: atendimento@cardiovida.com.br</h2><br>
+
+
+
+    </tfoot>
+    </html>
