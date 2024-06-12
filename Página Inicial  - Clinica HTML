@@ -1,0 +1,46 @@
+<html>
+    <head>
+        
+            <H1>CardioVida - Clínica Especializada em Saúde Cardíaca</H1>
+        <img src="https://img.freepik.com/vetores-premium/mascote-dos-desenhos-animados-do-medico-do-simbolo-do-coracao_309278-15200.jpg" width="200" align="center">
+        <div class="sidebar">
+            <h1>Menu</h1>
+            <ul>
+                <li><a href="pagina_principal.html"title="pagina_principal" target="_self">Página Principal</a></li>
+                <li><a href="sobreaclinica.html"title="sobre" target="_self">Sobre a Clínica</a></li>
+                <li><a href="horario.html"title="horario" target="_self">Horário de Funcionamento</a></li>
+                <li><a href="contato.html"title="contato" target="_self">Contato</a></li>
+            </ul>
+        </div>
+        <body>
+            <br>
+            <br>
+            <br>
+
+            
+            <H2>Sobre a Clinica CardioVida</H2>
+            <p>
+                A <b>Clínica CardioVida</b> é uma instituição dedicada à excelência no cuidado da saúde cardiovascular. Nossa missão é proporcionar aos nossos pacientes atendimento médico de alta qualidade, utilizando tecnologia de ponta e abordagens inovadoras no diagnóstico, tratamento e prevenção de doenças cardíacas.
+
+
+            </p>
+            <P>
+                A <b>Clínica CardioVida</b> conta com uma infraestrutura moderna e equipada com os mais avançados equipamentos para diagnósticos e tratamentos cardiológicos. Nosso ambiente foi projetado para oferecer conforto e segurança, garantindo que nossos pacientes recebam o melhor cuidado em cada visita.
+            </P>
+            <P>Agende já sua consulta ou entre em contato conosco para tirar suas dúvidas! :)</P>
+            <br>
+            <br>
+            <br>
+           
+
+
+        </body>
+
+    </head>
+    <tfoot>
+        <H1>Contato:</H1>
+        <h2>Localização: Rua da Saúde - Nº123 - Centro - São Paulo<br>
+            Telefone: (11) 1234-5678<br>
+            E-mail: atendimento@cardiovida.com.br</h2><br>
+    </tfoot>
+</html>
